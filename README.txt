@@ -1,8 +1,9 @@
 
 Author : Muhammad Nisar 
 
+C++ Code that mimics a podcast network. Podcasts have a title, a host, and a data structure for storing episodes. Each episode will have metadata and content. Episodes may then be "played" (have their content printed to console).
 
-
+At the moment, this application is only supported on linux.
 
 Files : Client.h, Client.cc (Handles the Client objects)
         Episode.h Episode.cc (Handles the Episode objects)
