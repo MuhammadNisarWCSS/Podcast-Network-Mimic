@@ -14,9 +14,6 @@ Subscribers can then play the podcast locally, and this should work even if the 
 Instead of connecting remotely, there is a TestControl object to test the functionality of the Network and Client classes by simulating a remote connection. 
 
 
-
-
-
 At the moment, this application is only supported on linux.
 
 Files : Client.h, Client.cc (Handles the Client objects)
