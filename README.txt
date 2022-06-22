@@ -10,9 +10,8 @@ A Client class will be able to connect to the Network as long as the Client name
 Once they connect, they can “stream” episodes from any podcast. 
 In addition, a Client will be able to “download” podcasts. 
 This copies the podcast to “local storage”, which is a data structure in the Client class. 
-Subscribers can then play the podcast locally, and this should work even if the network deletes the original podcast.
-Instead of connecting remotely, there is a TestControl object to test the functionality of the Network 
-and Client classes by simulating a remote connection. 
+Subscribers can then play the podcast locally, and this should work even if the Network deletes the original Podcast.
+Instead of connecting remotely, there is a TestControl object to test the functionality of the Network and Client classes by simulating a remote connection. 
 
 
 
