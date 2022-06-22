@@ -2,7 +2,8 @@
 Author : Muhammad Nisar 
 
 
-C++ Code that mimics a podcast network. Podcasts have a title, a host, and a data structure for storing episodes. Each episode will have metadata and content. Episodes may then be "played" (have their content printed to console).
+C++ Code that mimics a podcast network. Podcasts have a title, a host, and a data structure for storing episodes. 
+Each episode will have metadata and content. Episodes may then be "played" (have their content printed to console).
 
 The Network itself will consist of Podcasts as well as Subscribers. 
 A Client class will be able to connect to the Network as long as the Client name matches a Subscriber name. 
